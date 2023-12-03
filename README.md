@@ -6,8 +6,10 @@
 <p align="left"> <a href="https://twitter.com/olalexy007" target="blank"><img src="https://img.shields.io/twitter/follow/olalexy007?logo=twitter&style=for-the-badge" alt="olalexy007" /></a></p>
 
 - 🔭 I’m currently working on [homelyvest](https://homelyvest.vercel.app/)
+  
+- 👯 I’m looking to collaborate **on commercial projects and startup ideas**
 
-- 🌱 I’m currently learning **Sanity IO, Mongo DB, GSAP, and Frontend Animations**
+- 🌱 I’m currently learning **Sanity IO Baas, AppWrite, Mongo DB, GSAP, and Frontend Animations**
 
 - 👨‍💻 All of my projects are available at [lexy-portfolio-frontend.vercel.app/](lexy-portfolio-frontend.vercel.app/)
 
