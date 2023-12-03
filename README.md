@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ajayi Olalekan Bamidele 👋</h1>
-<h3 align="center">A passionate web and mobile frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Frontend React Developer based in Lagos, Nigeria. Building the Frontend of Web and Mobile Applications that leads to the success of the overall product.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olalexy1&label=Profile%20views&color=0e75b6&style=flat" alt="olalexy1" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olalexy1&theme=radical" alt="olalexy1" /></a> </p>
