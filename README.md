@@ -34,7 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olalexy1&show_icons=true&locale=en&theme=radical&border_radius=8" alt="olalexy1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olalexy1&theme=radical" alt="olalexy1&border_radius=8" /></p> 
-
-![Snake animation](https://github.com/Olalexy1/Olalexy1/blob/output/github-contribution-grid-snake.svg)
-
-
