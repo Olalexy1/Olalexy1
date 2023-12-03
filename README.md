@@ -35,5 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olalexy1&theme=radical" alt="olalexy1&border_radius=8" /></p> 
 
+![Snake animation](https://github.com/olalexy1/olalexy1/blob/output/github-contribution-grid-snake.svg)
 
 
