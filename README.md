@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ajayiolalekan729@gmail.com, +2348188394639**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HUmtgoC5_pGoG1QvVz920tlxFF1se8WR/view?usp=sharing](https://drive.google.com/file/d/1HUmtgoC5_pGoG1QvVz920tlxFF1se8WR/view?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1gDBrsL9zlU06kNvBP1nCT-Puvqle_YX4oVb3XB09zFo/edit?usp=sharing](https://docs.google.com/document/d/1gDBrsL9zlU06kNvBP1nCT-Puvqle_YX4oVb3XB09zFo/edit?usp=sharing)
 
 - ⚡ Fun fact **I love travel, music, and football**
 
