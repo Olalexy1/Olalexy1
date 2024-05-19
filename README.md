@@ -7,7 +7,7 @@
   
 - 👯 I’m looking to collaborate **on commercial projects and startup ideas**
 
-- 🌱 I’m currently learning **Sanity IO, AppWrite, Mongo DB, GSAP, and Frontend Animations**
+- 🌱 I’m currently learning **Mongo DB, GSAP**
 
 - 👨‍💻 All of my projects are available at [lexy-portfolio-frontend.vercel.app/](lexy-portfolio-frontend.vercel.app/)
 
