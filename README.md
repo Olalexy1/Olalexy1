@@ -7,8 +7,6 @@
   
 - 👯 I’m looking to collaborate **on commercial projects and startup ideas**
 
-- 🌱 I’m currently learning **Mongo DB, GSAP**
-
 - 👨‍💻 All of my projects are available at [lexy.is-a.dev/](https://lexy.is-a.dev/)
 
 - 💬 Ask me about **React, Next js, React Native, Expo, TypeScript**
