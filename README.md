@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Next js, React Native, Expo, TypeScript**
 
-- 📫 How to reach me **ajayiolalekan729@gmail.com, +2348188394639**
+- 📫 How to reach me **ajayiolalekan729@gmail.com, +2348188394639, +2347041225495**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1gDBrsL9zlU06kNvBP1nCT-Puvqle_YX4oVb3XB09zFo/edit?usp=sharing](https://docs.google.com/document/d/1gDBrsL9zlU06kNvBP1nCT-Puvqle_YX4oVb3XB09zFo/edit?usp=sharing)
 
